@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aliyunoss/aliyunoss.iml" filepath="$PROJECT_DIR$/aliyunoss/aliyunoss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyjava/mapperplus/mapperplus.iml" filepath="$PROJECT_DIR$/studyjava/mapperplus/mapperplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyjava/mybatis_pluscode/mybatis_pluscode.iml" filepath="$PROJECT_DIR$/studyjava/mybatis_pluscode/mybatis_pluscode.iml" />
+    </modules>
+  </component>
+</project>
